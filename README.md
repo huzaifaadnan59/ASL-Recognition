@@ -23,6 +23,30 @@ This project implements a **real-time American Sign Language (ASL) recognition s
 3. **Model Training**: Trains a Random Forest classifier using extracted features.
 4. **Real-time Recognition**: Processes webcam frames, predicts gestures, and displays results in real-time via GUI.
 
+## Limitations
+- Recognition limited to individual ASL letters.
+- Accuracy may vary with different lighting or hand positions.
+- Dataset size and diversity are limited.
+
+---
+
+## Future Enhancements
+- Expand to recognize ASL words and sentences.
+- Improve performance with optimized algorithms or hardware acceleration.
+- Integrate with assistive technologies for real-world applications.
+
+---
+
+## Contributors
+- Huzaifa Adnan
+- Areej Dar
+
+---
+---
+
+## Conclusion
+The **ASL Recognition System** bridges communication barriers between ASL and non-ASL users. By leveraging computer vision and machine learning, it provides an intuitive solution for recognizing ASL gestures in real time. Future work can focus on enhancing gesture vocabulary, optimizing performance, and expanding real-world usability to better support the ASL community.
+
 ## Usage
 1. Clone this repository:
    ```bash
