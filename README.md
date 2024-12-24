@@ -49,5 +49,5 @@ The **ASL Recognition System** bridges communication barriers between ASL and no
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone [<repository_url>](https://github.com/huzaifaadnan59/ASL-Recognition.git)
+   git clone https://github.com/huzaifaadnan59/ASL-Recognition.git
    cd ASL-Recognition-System
