@@ -42,7 +42,6 @@ This project implements a **real-time American Sign Language (ASL) recognition s
 - Areej Dar
 
 ---
----
 
 ## Conclusion
 The **ASL Recognition System** bridges communication barriers between ASL and non-ASL users. By leveraging computer vision and machine learning, it provides an intuitive solution for recognizing ASL gestures in real time. Future work can focus on enhancing gesture vocabulary, optimizing performance, and expanding real-world usability to better support the ASL community.
@@ -50,5 +49,5 @@ The **ASL Recognition System** bridges communication barriers between ASL and no
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/huzaifaadnan59/ASL-Recognition.git)
    cd ASL-Recognition-System
